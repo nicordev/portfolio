@@ -3,7 +3,6 @@ body {
     padding: 0;
     margin: 0;
     font-family: 'Open Sans', sans-serif;
-    background-color: lightslategrey;
 }
 
 header, footer {
@@ -18,13 +17,12 @@ a, a:visited {
     color: chocolate;
 }
 
-footer a {
+footer a, footer a:visited {
     color: white;
 }
 
 .content {
-    background-color: rgb(237, 237, 237);
-    padding: 50px;
+    background-color: rgb(247, 247, 247);
     margin: 0 auto;
     width: 80%;
 }
@@ -45,4 +43,20 @@ footer a {
     text-align: center;
     box-shadow: 3px 3px 3px grey;
     font-size: 0.75em;
+    transition-duration: 0.5s;
+    transition-property: box-shadow;
+}
+
+.card:hover {
+    box-shadow: none;
+}
+
+.box {
+    padding: 20px;
+    transition-duration: 0.5s;
+    transition-property: background-color;
+}
+
+.box:hover {
+    background-color: lightskyblue;
 }
