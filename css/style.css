@@ -3,6 +3,7 @@ body {
     padding: 0;
     margin: 0;
     font-family: 'Open Sans', sans-serif;
+    background-color: rgb(247, 247, 247);
 }
 
 header, footer {
@@ -15,6 +16,14 @@ header, footer {
 a, a:visited {
     text-decoration: none;
     color: chocolate;
+}
+
+ul {
+    list-style-type: none;
+}
+
+li {
+    padding: 5px;
 }
 
 footer a, footer a:visited {
@@ -33,10 +42,10 @@ footer a, footer a:visited {
 }
 
 .card {
-    background-color: white;
+    background-color: lightslategrey;
     width: 200px;
     height: 100px;
-    border: solid 1px grey;
+    border: solid 1px lightslategrey;
     border-radius: 10px;
     padding: 10px;
     margin: 10px;
@@ -44,11 +53,27 @@ footer a, footer a:visited {
     box-shadow: 3px 3px 3px grey;
     font-size: 0.75em;
     transition-duration: 0.5s;
-    transition-property: box-shadow;
+    transition-property: box-shadow, width, height;
 }
 
 .card:hover {
     box-shadow: none;
+    width: 225px;
+    height: 125px;
+}
+
+.card-title {
+    font-size: 1em;
+    padding: 5px 10px;
+    margin: -10px;
+    border-radius: 10px 10px 0 0;
+    background-color: rgba(0, 0, 0, 0.25);
+    color: white;
+}
+
+.card-body {
+    color: white;
+    padding: 10px 0;
 }
 
 .box {
