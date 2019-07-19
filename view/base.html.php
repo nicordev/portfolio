@@ -25,10 +25,10 @@
         <footer>
             <ul>
                 <li>
-                    <a href="https://github.com/nicordev">GitHub</a>
+                    <a href="https://github.com/nicordev">Profil GitHub</a>
                 </li>
                 <li>
-                    <a href="https://www.linkedin.com/in/nicolas-renvoise-developer/">LinkedIn</a>
+                    <a href="https://www.linkedin.com/in/nicolas-renvoise-developer/">Profil LinkedIn</a>
                 </li>
             </ul>
         </footer>

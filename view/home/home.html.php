@@ -6,68 +6,116 @@ ob_start();
     <div class="box">
         <h3>La formation OpenClassrooms</h3>
 
+        <hr>
+
         <div class="card-deck">
-            <a class="card" href="https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony">
-                <h5 class="card-title">Développeur d'application php/symfony</h5>
-                <p class="card-body">Voir le contenu de la formation</p>
-            </a>
+            <div class="card">
+                <div class="card-title-wrapper">
+                    <h5 class="card-title">Développeur d'application php/symfony</h5>
+                </div>
+
+                <div class="card-body">
+                    <a class="card-body-element" href="https://openclassrooms.com/fr/paths/59-developpeur-dapplication-php-symfony">Voir le contenu de la formation</a>
+                </div>
+            </div>
         </div>
     </div>
 
     <div class="box">
         <h3>Mes projets liés à la formation</h3>
 
+        <hr>
+
         <h4>Projets réalisés</h4>
 
         <div class="card-deck">
-            <a class="card" href="https://formation-oc-php.sansgodasses.com/projet-2/">
-                <h5 class="card-title">Intégrez un thème Wordpress pour un client</h5>
-                <p class="card-body">Voir le site</p>
-            </a>
+            <div class="card" >
+                <div class="card-title-wrapper">
+                    <h5 class="card-title">Intégrez un thème Wordpress pour un client</h5>
+                </div>
 
-            <a class="card" href="https://formation-oc-php.sansgodasses.com/projet-3/">
-                <h5 class="card-title">Analysez les besoins de votre client pour son Festival de films</h5>
-                <p class="card-body">Voir le site</p>
-            </a>
+                <div class="card-body">
+                    <a class="card-body-element" href="https://formation-oc-php.sansgodasses.com/projet-2/">Voir le site</a>
+                </div>
+            </div>
 
-            <a class="card" href="https://formation-oc-php.sansgodasses.com/projet-4/">
-                <h5 class="card-title">Concevez la solution technique d'une application de restauration en ligne, Express Food</h5>
-                <p class="card-body">Voir les diagrammes UML et le fichier .sql</p>
-            </a>
+            <div class="card">
+                <div class="card-title-wrapper">
+                    <h5 class="card-title">Analysez les besoins de votre client pour son Festival de films</h5>
+                </div>
 
-            <a class="card" href="https://blog.sansgodasses.com/">
-                <h5 class="card-title">Créez votre premier blog en PHP</h5>
-                <p class="card-body">Voir le site</p>
-            </a>
+                <div class="card-body">
+                    <a class="card-body-element" href="https://formation-oc-php.sansgodasses.com/projet-3/">Voir le site</a>
+                    <a class="card-body-element" href="https://github.com/nicordev/formation-oc-php-projet3-livrables">Voir le code</a>
+                </div>
+            </div>
 
-            <a class="card" href="https://snowtricks.sansgodasses.com/">
-                <h5 class="card-title">Développez de A à Z le site communautaire SnowTricks</h5>
-                <p class="card-body">Voir le site</p>
-            </a>
+            <div class="card">
+                <div class="card-title-wrapper">
+                    <h5 class="card-title">Concevez la solution technique d'une application de restauration en ligne, Express Food</h5>
+                </div>
+
+                <div class="card-body">
+                    <a class="card-body-element" href="https://github.com/nicordev/formation-oc-php-projet4-bd">Voir les fichiers</a>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-title-wrapper">
+                    <h5 class="card-title">Créez votre premier blog en PHP</h5>
+                </div>
+
+                <div class="card-body">
+                    <a class="card-body-element" href="https://blog.sansgodasses.com/">Voir le site</a>
+                    <a class="card-body-element" href="https://github.com/nicordev/formation-oc-php-projet5-blog">Voir le code</a>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-title-wrapper">
+                    <h5 class="card-title">Développez de A à Z le site communautaire SnowTricks</h5>
+                </div>
+
+                <div class="card-body">
+                    <a class="card-body-element" href="https://snowtricks.sansgodasses.com/">Voir le site</a>
+                    <a class="card-body-element" href="https://github.com/nicordev/formation-oc-php-projet6-symfony">Voir le code</a>
+                </div>
+            </div>
         </div>
 
-        <h4>Projets à venir...</h4>
+        <h4>Projets à venir</h4>
 
         <ul>
-            <li>Développez de A à Z le site communautaire SnowTricks</li>
             <li>Créez un web service exposant une API</li>
             <li>Améliorez une application existante de ToDo & Co</li>
         </ul>
     </div>
 
     <div class="box">
-        <h3>Mes projets perso</h3>
+        <h3>Mes projets perso (antérieurs à la formation)</h3>
+
+        <hr>
 
         <div class="card-deck">
-            <a class="card" href="https://carte.ovh">
-                <h5 class="card-title">Un site pour s'orienter en balade</h5>
-                <p class="card-body">Voir le site</p>
-            </a>
+            <div class="card">
+                <div class="card-title-wrapper">
+                    <h5 class="card-title">Un site pour s'orienter en balade</h5>
+                </div>
 
-            <a class="card" href="https://sansgodasses.com">
-                <h5 class="card-title">Un site sur la course pieds nus</h5>
-                <p class="card-body">Voir le site</p>
-            </a>
+                <div class="card-body">
+                    <a class="card-body-element" href="https://carte.ovh">Voir le site</a>
+                </div>
+            </div>
+
+            <div class="card">
+                <div class="card-title-wrapper">
+                    <h5 class="card-title">Un site sur la course pieds nus</h5>
+                </div>
+
+                <div class="card-body">
+                    <a class="card-body-element" href="https://sansgodasses.com">Voir le site</a>
+                </div>
+            </div>
         </div>
     </div>
 </section>

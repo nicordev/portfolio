@@ -7,73 +7,78 @@ body {
 }
 
 header, footer {
-    background-color: #0c5460;
+    background-color: #2C3E50;
     color: white;
     padding: 50px 0;
     text-align: center;
 }
 
-a, a:visited {
+a {
     text-decoration: none;
-    color: chocolate;
+    color: white;
+}
+
+a:hover {
+    color: sandybrown;
 }
 
 ul {
     list-style-type: none;
+    padding: 0;
 }
 
 li {
     padding: 5px;
 }
 
-footer a, footer a:visited {
-    color: white;
-}
-
 .content {
     background-color: rgb(247, 247, 247);
     margin: 0 auto;
-    width: 80%;
+    max-width: 1000px;
 }
 
 .card-deck {
     display: flex;
     flex-wrap: wrap;
+    justify-content: space-around;
 }
 
 .card {
     background-color: lightslategrey;
-    width: 200px;
-    height: 100px;
+    width: 300px;
     border: solid 1px lightslategrey;
     border-radius: 10px;
-    padding: 10px;
     margin: 10px;
     text-align: center;
     box-shadow: 3px 3px 3px grey;
     font-size: 0.75em;
     transition-duration: 0.5s;
     transition-property: box-shadow, width, height;
+    color: whitesmoke;
 }
 
 .card:hover {
     box-shadow: none;
-    width: 225px;
-    height: 125px;
+}
+
+.card-title-wrapper {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 5px 10px;
+    margin: 0;
+    border-radius: 10px 10px 0 0;
+    background-color: rgba(0, 0, 0, 0.25);
+    min-height: 50px;
 }
 
 .card-title {
     font-size: 1em;
-    padding: 5px 10px;
-    margin: -10px;
-    border-radius: 10px 10px 0 0;
-    background-color: rgba(0, 0, 0, 0.25);
-    color: white;
+    margin: 0;
 }
 
 .card-body {
-    color: white;
-    padding: 10px 0;
+    margin-top: 10px;
 }
 
 .box {
@@ -82,6 +87,7 @@ footer a, footer a:visited {
     transition-property: background-color;
 }
 
-.box:hover {
-    background-color: lightskyblue;
+.card-body-element {
+    display: block;
+    margin-bottom: 10px;
 }
