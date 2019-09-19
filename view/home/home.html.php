@@ -83,12 +83,29 @@ ob_start();
             </div>
         </div>
 
-        <h4>Projets à venir</h4>
+        <h4>Projets en cours</h4>
 
-        <ul>
-            <li>Créez un web service exposant une API</li>
-            <li>Améliorez une application existante de ToDo & Co</li>
-        </ul>
+        <div class="card-deck">
+            <div class="card" >
+                <div class="card-title-wrapper">
+                    <h5 class="card-title">Créez un web service exposant une API</h5>
+                </div>
+
+                <div class="card-body">
+                    <a class="card-body-element" href="https://github.com/nicordev/formation-oc-php-projet7-api-rest">Voir le code</a>
+                </div>
+            </div>
+
+            <div class="card" >
+                <div class="card-title-wrapper">
+                    <h5 class="card-title">Améliorez une application existante de ToDo & Co</h5>
+                </div>
+
+                <div class="card-body">
+                    <a class="card-body-element" href="https://github.com/nicordev/formation-oc-php-projet8-todoco">Voir le code</a>
+                </div>
+            </div>
+        </div>
     </div>
 
     <div class="box">
