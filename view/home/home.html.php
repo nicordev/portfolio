@@ -81,21 +81,24 @@ ob_start();
                     <a class="card-body-element" href="https://github.com/nicordev/formation-oc-php-projet6-symfony">Voir le code</a>
                 </div>
             </div>
-        </div>
 
-        <h4>Projets en cours</h4>
-
-        <div class="card-deck">
             <div class="card" >
                 <div class="card-title-wrapper">
                     <h5 class="card-title">Créez un web service exposant une API</h5>
                 </div>
 
                 <div class="card-body">
+                    <p>Vous pouvez tester les endpoints de l'API avec <a href="https://insomnia.rest/">insomnia</a> sur ocp7.nicordev.com</p>
+                    <a href="http://ocp7.nicordev.com/api/doc">Voir la documentation (/api/doc)</a>
                     <a class="card-body-element" href="https://github.com/nicordev/formation-oc-php-projet7-api-rest">Voir le code</a>
                 </div>
             </div>
 
+        </div>
+
+        <h4>Projets en cours</h4>
+
+        <div class="card-deck">
             <div class="card" >
                 <div class="card-title-wrapper">
                     <h5 class="card-title">Améliorez une application existante de ToDo & Co</h5>
@@ -104,6 +107,14 @@ ob_start();
                 <div class="card-body">
                     <a class="card-body-element" href="https://github.com/nicordev/formation-oc-php-projet8-todoco">Voir le code</a>
                 </div>
+            </div>
+
+            <div class="card" >
+                <div class="card-title-wrapper">
+                    <h5 class="card-title">Construire votre outil de veille technologique</h5>
+                </div>
+
+                <div class="card-body"></div>
             </div>
         </div>
     </div>

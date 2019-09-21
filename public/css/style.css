@@ -52,7 +52,7 @@ li {
     text-align: center;
     box-shadow: 3px 3px 3px grey;
     font-size: 0.75em;
-    transition-duration: 0.5s;
+    transition-duration: 250ms;
     transition-property: box-shadow, width, height;
     color: whitesmoke;
 }
