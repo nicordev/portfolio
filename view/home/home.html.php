@@ -94,21 +94,22 @@ ob_start();
                 </div>
             </div>
 
-        </div>
-
-        <h4>Projets en cours</h4>
-
-        <div class="card-deck">
             <div class="card" >
                 <div class="card-title-wrapper">
                     <h5 class="card-title">Améliorez une application existante de ToDo & Co</h5>
                 </div>
 
                 <div class="card-body">
+                    <a href="https://ocp8.nicordev.com/login">Voir le site</a>
+                    <a href="https://nicordev.github.io/formation-oc-php-projet8-todoco/">Voir la documentation</a>
                     <a class="card-body-element" href="https://github.com/nicordev/formation-oc-php-projet8-todoco">Voir le code</a>
                 </div>
             </div>
+        </div>
 
+        <h4>Projets en cours</h4>
+
+        <div class="card-deck">
             <div class="card" >
                 <div class="card-title-wrapper">
                     <h5 class="card-title">Construire votre outil de veille technologique</h5>
