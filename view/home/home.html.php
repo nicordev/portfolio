@@ -88,8 +88,8 @@ ob_start();
                 </div>
 
                 <div class="card-body">
-                    <p>Vous pouvez tester les endpoints de l'API avec <a href="https://insomnia.rest/">insomnia</a> sur ocp7.nicordev.com</p>
-                    <a href="http://ocp7.nicordev.com/api/doc">Voir la documentation (/api/doc)</a>
+                    <p class="card-body-element">Vous pouvez tester les endpoints de l'API avec <a href="https://insomnia.rest/">insomnia</a> sur ocp7.nicordev.com</p>
+                    <a class="card-body-element" href="http://ocp7.nicordev.com/api/doc">Voir la documentation (/api/doc)</a>
                     <a class="card-body-element" href="https://github.com/nicordev/formation-oc-php-projet7-api-rest">Voir le code</a>
                 </div>
             </div>
@@ -100,8 +100,8 @@ ob_start();
                 </div>
 
                 <div class="card-body">
-                    <a href="https://ocp8.nicordev.com/login">Voir le site</a>
-                    <a href="https://nicordev.github.io/formation-oc-php-projet8-todoco/">Voir la documentation</a>
+                    <a class="card-body-element" href="https://ocp8.nicordev.com/login">Voir le site</a>
+                    <a class="card-body-element" href="https://nicordev.github.io/formation-oc-php-projet8-todoco/">Voir la documentation</a>
                     <a class="card-body-element" href="https://github.com/nicordev/formation-oc-php-projet8-todoco">Voir le code</a>
                 </div>
             </div>
