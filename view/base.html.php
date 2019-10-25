@@ -25,6 +25,9 @@
         <footer>
             <ul>
                 <li>
+                    <a href="/cv/nicolas_renvoise_cv.pdf">CV</a>
+                </li>
+                <li>
                     <a href="https://github.com/nicordev">Profil GitHub</a>
                 </li>
                 <li>
