@@ -15,7 +15,7 @@
     <body>
         <header>
             <h1>Nicolas Renvoisé</h1>
-            <h2>Développeur backend en formation</h2>
+            <h2>Développeur PHP / Symfony</h2>
         </header>
 
         <section class="content">
