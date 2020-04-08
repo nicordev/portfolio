@@ -180,7 +180,7 @@ ob_start();
             </div>
 
             <div class="card-body">
-                <a class="card-body-element" href="https://sansgodasses.com">Voir le site</a>
+                <a class="card-body-element" href="https://sansgodasse.com">Voir le site</a>
             </div>
         </div>
     </div>
