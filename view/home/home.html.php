@@ -73,7 +73,7 @@ ob_start();
             </div>
 
             <div class="card-body">
-                <a class="card-body-element" href="https://formation-oc-php.sansgodasses.com/projet-2/">Voir le site</a>
+                <a class="card-body-element" href="https://ocp2.nicordev.com">Voir le site</a>
             </div>
         </div>
 
@@ -83,7 +83,7 @@ ob_start();
             </div>
 
             <div class="card-body">
-                <a class="card-body-element" href="https://formation-oc-php.sansgodasses.com/projet-3/">Voir le site</a>
+                <a class="card-body-element" href="https://ocp3.nicordev.com">Voir le site</a>
                 <a class="card-body-element" href="https://github.com/nicordev/formation-oc-php-projet3-livrables">Voir le code</a>
             </div>
         </div>
@@ -104,7 +104,7 @@ ob_start();
             </div>
 
             <div class="card-body">
-                <a class="card-body-element" href="https://blog.sansgodasses.com/">Voir le site</a>
+                <a class="card-body-element" href="https://ocp5.nicordev.com">Voir le site</a>
                 <a class="card-body-element" href="https://github.com/nicordev/formation-oc-php-projet5-blog">Voir le code</a>
             </div>
         </div>
@@ -115,7 +115,7 @@ ob_start();
             </div>
 
             <div class="card-body">
-                <a class="card-body-element" href="https://snowtricks.sansgodasses.com/">Voir le site</a>
+                <a class="card-body-element" href="https://ocp6.nicordev.com/">Voir le site</a>
                 <a class="card-body-element" href="https://github.com/nicordev/formation-oc-php-projet6-symfony">Voir le code</a>
             </div>
         </div>
