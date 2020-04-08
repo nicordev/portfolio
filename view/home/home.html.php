@@ -64,8 +64,6 @@ ob_start();
 
     <hr>
 
-    <h4>Projets réalisés</h4>
-
     <div class="card-deck">
         <div class="card" >
             <div class="card-title-wrapper">
@@ -142,18 +140,6 @@ ob_start();
                 <a class="card-body-element" href="https://nicordev.github.io/formation-oc-php-projet8-todoco/">Voir la documentation</a>
                 <a class="card-body-element" href="https://github.com/nicordev/formation-oc-php-projet8-todoco">Voir le code</a>
             </div>
-        </div>
-    </div>
-
-    <h4>Projets en cours</h4>
-
-    <div class="card-deck">
-        <div class="card" >
-            <div class="card-title-wrapper">
-                <h5 class="card-title">Construire votre outil de veille technologique</h5>
-            </div>
-
-            <div class="card-body"></div>
         </div>
     </div>
 </div>
